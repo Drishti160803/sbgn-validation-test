@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org">
+    <map language="process description">
+        <glyph id="glyph1" class="macromolecule">
+            <label text="ADH"/>
+            <bbox x="40" y="120" w="80" h="40"/>
+        </glyph>
+    </map>
+</sbgn>
